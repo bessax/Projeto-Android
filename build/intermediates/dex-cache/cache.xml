@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_524a3bee4b251ddf59b833ac227d4e01ee3b3d5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_4b1e894f78098c9cc0896f2b10bdfc11b70ec62f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_73883d377b4aa6d2358ddf522021afd607ea14b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6f97471286f30cd3e74becbe01d42de9c7c9bab0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_b342aabd30f030ae0c34f077d9273f7a6319797c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_257d95c478a8da7d05e701df716fcf41a3900173.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_6c4f8f100df69cb31360da3262828f191c983697.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_443e19f72665c7bfd78c3400ed5fedb519b67ce5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_e52933ee1d58f986a9fb92cbe7eb1f7012e2f10e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4d253cc2032d594d1dd76460718823e7b2ff7737.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_2472712a1e5e4fb2bf282e546763c9987b269af8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_0796fb2794b8d8bfc0e3b28389f59af31c33ab59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_90d293478d4ac3d82b27df07ff089cdac52b8453.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_ad4c2ae8f183587eb5771c7f5331ac52472011ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Andre Bessa\AndroidStudioProjects\ProjetoFinal\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5dc689b30ebfa0ad6d23cfd03c853c2a0e91b2d5.jar" />
+    </item>
+
+</items>
